@@ -11,4 +11,10 @@ public class Textos {
                  3. Pesos Arts
                 ****************************
             """;
+
+    static String masOpciones = """
+                ****************************
+                    - MAS OPCIONES -   
+                ****************************
+            """;
 }
